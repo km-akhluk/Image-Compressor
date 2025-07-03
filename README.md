@@ -1,4 +1,5 @@
-# 🖼️ Image Compressor using ReactJS
+# 🖼️ Image Compressor using ReactJS**
+Live link : https://compress-ur-image.netlify.app/**
 
 An interactive feature-rich **Image Compressor** built with **ReactJS**, enabling users to upload images, control compression quality via a slider, and download compressed images. It also includes instructions and history navigation for enhanced UX.
 
