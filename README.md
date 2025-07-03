@@ -124,7 +124,7 @@ Then visit: [http://localhost:3000](http://localhost:3000)
 }
 ```
 ## 🎨 Compressor.js
-
+```
 //Components/Compressor.js
 import React,
 {
@@ -463,9 +463,10 @@ function CompressorComp() {
     );
 }
 export default CompressorComp;
-
+```
 
 ## 🎨 App.js
+```
 //App.js
 import React from 'react';
 import './App.css';
@@ -478,3 +479,4 @@ function App() {
     );
 }
 export default App;
+```
